@@ -1,3 +1,3 @@
 # Programming-in-Python-IITMadras
 
-Weekly material and codes for the course: BSCS1002 - Programming in Python. 
+Weekly material and codes for the Foundation level course: BSCS1002 - Programming in Python. 
